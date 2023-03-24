@@ -51,6 +51,8 @@
 html,
 body {
   height: 100%;
+  padding: 0;
+  margin: 0;
 }
 
 body {
@@ -185,5 +187,6 @@ body .max-w .location-and-contact {
     align-items: center;
     justify-content: center;
     gap: 15px;
+    color: red;
   }
 } /*# sourceMappingURL=styles.css.map */
