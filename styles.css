@@ -2,9 +2,7 @@
   font-family: didot;
   src: url("assets/fonts/Didot Regular.ttf");
 }
-
 * {
-  height: 100%;
   padding: 0;
   margin: 0;
   box-sizing: border-box;
@@ -60,6 +58,7 @@ body {
 body {
   font-family: didot, "Times New Roman", Times, serif;
   width: 100%;
+  /* height: 100vh; */
   background: url("assets/images/bg.jpg") center/cover;
   font-size: 16px;
 }
