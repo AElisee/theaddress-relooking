@@ -155,7 +155,7 @@ body .max-w .social-media > h4 {
 @media screen and (max-width: 768px) {
   body .max-w .social-media > h4 {
     font-size: 1.2rem;
-    padding: 10px;
+    padding: 10px 0 20px;
   }
 }
 body .max-w .social-media .social-media-links {
